@@ -1,6 +1,6 @@
 {
   "generatedBy": "@hip4/sdk internal signing helpers",
-  "sdkVersion": "2.2.0",
+  "sdkVersion": "1.8.8",
   "fixtures": [
     {
       "description": "simple-limit-order",

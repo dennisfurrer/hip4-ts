@@ -1,12 +1,12 @@
 {
   "name": "@hip4/sdk",
-  "version": "2.2.0",
+  "version": "1.8.8",
   "description": "TypeScript SDK for Hyperliquid HIP-4",
   "repository": {
     "type": "git",
     "url": "https://github.com/dennisfurrer/hip-4.git"
   },
-  "homepage": "https://github.com/dennisfurrer/hip-4#readme",
+  "homepage": "https://docs.outcome.xyz",
   "bugs": {
     "url": "https://github.com/dennisfurrer/hip-4/issues"
   },
@@ -64,7 +64,7 @@
     "typescript",
     "web3"
   ],
-  "author": "Dennis Furrer",
+  "author": "Dennis Furrer for Outcome Labs",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"

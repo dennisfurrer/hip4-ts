@@ -8,9 +8,9 @@
 // Outputs to `tests/parity/fixtures.json` in this repo. Copy it into the
 // Python repo at `tests/fixtures/ts_signing_parity.json`.
 
-import { describe, expect, it } from "vitest";
 import { writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { describe, expect, it } from "vitest";
 
 import {
   createL1ActionHash,
@@ -241,7 +241,7 @@ describe("dump signing fixtures", () => {
 
     const out = {
       generatedBy: "@hip4/sdk internal signing helpers",
-      sdkVersion: "2.2.0",
+      sdkVersion: "1.8.8",
       fixtures,
     };
 

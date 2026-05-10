@@ -214,3 +214,7 @@ Signing implementation inspired by [@nktkas/hyperliquid](https://github.com/nktk
 ## License
 
 BUSL-1.1
+
+## Builders
+
+Dennis Furrer @ https://outcome.xyz
