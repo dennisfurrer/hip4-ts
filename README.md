@@ -217,4 +217,4 @@ BUSL-1.1
 
 ## Builders
 
-Dennis Furrer @ https://outcome.xyz
+Dennis Furrer
